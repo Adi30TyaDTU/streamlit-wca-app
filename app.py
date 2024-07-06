@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib.font_manager import FontProperties
 
-st.sidebar.title("Whatsapp Chat Analyser")
+st.sidebar.title("Message Metrics : A Chat Analyser")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
