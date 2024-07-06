@@ -1,9 +1,3 @@
-streamlit
-pandas
+opencv-python
+cvzone
 numpy
-matplotlib
-seaborn
-wordcloud
-nltk
-emoji
-urlextract
