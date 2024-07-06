@@ -1,3 +1,9 @@
-opencv-python
-cvzone
+streamlit
+pandas
 numpy
+matplotlib
+seaborn
+wordcloud
+nltk
+emoji
+urlextract
